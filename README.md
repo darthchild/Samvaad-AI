@@ -24,7 +24,7 @@ Samvaad AI is a fully ***_Open-Source_*** web application that provides a multil
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Flask (Python)
 - **API Integration**:
- - Mixtral 7x8 MoE LLM: Used for text generation pipeline (Hosted on Fireworks AI).
+ - Mixtral 8x7B LLM: Used for text generation pipeline (Hosted on Fireworks AI).
  - Bhashini API: Used for speech recognition, machine translation, and text-to-speech tasks.
  - Stable Diffusion XL: Used for Image Generation pipeline (Hosted on RunPod AI).
  - FireLLaVA: Used for Image Analysis tasks (Hosted on Fireworks AI).
